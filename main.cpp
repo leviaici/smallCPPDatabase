@@ -232,6 +232,6 @@ void clearScreen() {
 //de facut requirements la parola (cifre, simboluri, litere mici si mari)!
 
 int main() {
-    loginOrCreate() ;
+    loginOrCreate();
     return 0 ;
 }
