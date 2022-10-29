@@ -1,0 +1,3 @@
+/Users/levismac/Documents/CLION/accountDatabase/cmake-build-debug/CMakeFiles/accountDatabase.dir
+/Users/levismac/Documents/CLION/accountDatabase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/levismac/Documents/CLION/accountDatabase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
